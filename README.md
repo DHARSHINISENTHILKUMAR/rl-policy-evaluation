@@ -73,8 +73,11 @@ else:
   print("Both policies have their merits.")
 ```
 ## OUTPUT:
+![267730656-c3227142-e859-433c-ae52-b0221f22b639](https://github.com/DHARSHINISENTHILKUMAR/rl-policy-evaluation/assets/113699377/4e27f99e-04af-412f-9cca-9a842d10368e)
+![267730688-11260e8b-6e2a-4f0e-9c8f-5861b1603e5f](https://github.com/DHARSHINISENTHILKUMAR/rl-policy-evaluation/assets/113699377/bdf52244-6c6a-45f1-a09a-faa510831f01)
+![267730877-1ee6d217-5ada-4fc0-ae3d-e3701e13746a](https://github.com/DHARSHINISENTHILKUMAR/rl-policy-evaluation/assets/113699377/482af853-6783-4b4d-9378-cccf78815485)
+![267730912-18f14f65-c243-4b57-b72d-4f077e0cbe96](https://github.com/DHARSHINISENTHILKUMAR/rl-policy-evaluation/assets/113699377/f899f016-fe6b-40e0-8cb8-202ef8181f7c)
 
-![267730509-8569d152-1cbc-42b2-af2c-1abe3dc34209](https://github.com/DHARSHINISENTHILKUMAR/rl-policy-evaluation/assets/113699377/06b59a14-027d-4ffc-9f3c-5c5c415a75ce)
 
 ## RESULT:
 
